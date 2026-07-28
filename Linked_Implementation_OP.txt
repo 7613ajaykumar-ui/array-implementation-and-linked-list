@@ -1,0 +1,11 @@
+Python 3.10.9 (tags/v3.10.9:1dd9be6, Dec  6 2022, 20:01:21) [MSC v.1934 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+===== RESTART: C:/Users/25UCS062/Desktop/25UCS062/Linked_Implementation.py =====
+Peek: 3
+Pop: 3
+Pop: 2
+Peek: 1
+Pop: 1
+Pop: None
+Is Empty: True
